@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Billy Rumbiak</h1>
-<h3 align="center">A Coding Enthusiasts from Indonesia</h3>
+<h3 align="center">I am Coding Enthusiasts from Indonesia</h3>
 <img src="tes.png" width="400">
 
 <hr>
